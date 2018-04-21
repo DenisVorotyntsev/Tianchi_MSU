@@ -8,10 +8,12 @@ Tianchi, powered by Alibaba Cloud is the leading global hackathon-like competiti
 Alibaba and the International Joint Conference on Artificial Intelligence (IJCAI) came together to develop a competition to disrupt the advertising industry through breakthrough algorithms. Alibaba Tianchi’s partnership with Moscow State University’s (MSU), globally renowned for computer & science, engineering and other disciplines brings the unique opportunity of holding this Hackathon on MSU premises on April 20th & 21st. 2 days of competing in teams to develop breakthrough algorithms, get access to real-business data sets, learning cutting-edge coding skills and getting the opportunity to earn cash prizes and access to Alibaba management. Although the Hackathon at MSU runs over 2 days, there is a parallel global competition already open, you can participate in both!
 
 **Statement**
+
 This competition provides massive transaction data of sponsored search in Taobao.com.
 Participants utilize artificial intelligence technologies to predict users' purchase intention.
 The conversion rate (CVR) is defined as the probability that the user finally purchases the advertised action, given information about users, advertised items, querys, contexts and shops. The CVR is formalized as
 CVR = P (conversion = 1 | query, user, ad, context, shop).
 
 **Evaluation**
+
 The Results of each participant are evaluated by logarithmic loss.
